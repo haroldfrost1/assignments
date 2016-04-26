@@ -1,0 +1,80 @@
+FEIT Cover page
+Title Page
+Name/id 
+Tutor name David
+Tutorial number 4
+Title
+Submission date
+Executive summary
+Introduce the areas of the report
+Describe methods of conducting research
+Evaluate findings 
+Provide recommendations –view(against data retain)
+Table of contents
+2200-2500 word count        /20%
+Report introduction
+The recent passing into Australian law Telecommunications (Interception and Access) Amendment (Data Retention) Act 2015 has led to various ethical discussion among the professional of the telecommunication and Information technology industry. This act requires the ISP (Internet service provider) to store data about their customers’ metadata for two years. Metadata defines as a set of data that describes and gives information about other data (dictionary) in this case, metadata refers to information generated as you use technology that the ISP needs collect e.g. communicate with other users over internet (who, when where and how) (//A guardian guide to your metadata, data retention website) Examples of metadata includes data, time, location, sender and receiver information however it does not include personal or content-specific details. This report will outline the stakeholder ethics involved in this case, and how international code of ethics have effects on the professionals in related industry and how technology will raise further ethical discussion in the future.
+Introduce the topics discussed in the report 
+Explain data retain law and metadata
+
+Stakeholder ethics
+In this section of the report, we will outline stakeholder’s position in this case and their ethic view on the Telecommunications (Interception and Access) Amendment (Data Retention) Act 2015, and explain the areas of conflict between stakeholders and provide my personal view on this situation as a future project manager who will work in the Information and Communication Technology field. 
+Identify at least 3 key stakeholder relevant to this case study. For each key stakeholder describe the situation and reasoning from their perspective.
+Stakeholder is a person who has interests or concerns in something (dictionary). In this case, the agreement of Telecommunications (Interception and Access) Amendment (Data Retention) Act 2015 has impacted many people and organizations, these people who have interests and concerns about this act are the stakeholders. We will put them into 3 different categories, the telecommunication industry, the Australian government and the user.
+
+The telecommunication industry are in a situation where they needs to build new infrastructure and adjust their business plans to suit the new law which they don’t needs to do and may cause year to do (citation) and it may causes the fees paid by each user to increase about $16 per month (citation), these can be vital for small business as they lost their competitive advantages.
+
+As for the Australian government, there are different opinions over this particular act, some are against the act and some support it. The Labor party and Liberal party both supporting the act for the reason of international security against terrorism, espionage and foreign interference and national security such as cyber-crimes, cyber security, child exploitation, murders, physical assault and sexual assault (citation). However, there are still people who has taken the other approach, The Greens, they thinks this act would results in personal privacy been violated (citation).
+
+As for the users, there are many different opinions on the act, many people go with the Greens, thinks the personal privacy is important.  The biggest threat to liberty of Australian (citation). While others thinks that privacy is not as important as public safety. 
+
+Explain the major areas of conflict, if any, between these perspectives.
+The areas of conflict in this case are the personal privacy against the international and national security of Australia, how the metadata is collected, kept and managed.
+
+The personal privacy is what the Greens and some of the users are concerning about this act (citation), they thinks that privacy of an individual should not be violated used in such situation, while the majority of the government (the Liberal and the Labor) and some users thinks different, they thinks the safety of the society is more than anything let alone personal privacy (citation).
+
+//user’s concerns with citation 
+How the metadata is collected, kept and managed are concerns for many users and organisations in the public, a normal user probably don’t want anyone else to know what he/she did every time they use internet.  And they definitely doesn’t want these data to be misused by the ISP and the government.
+
+For each stakeholder group identified, select what you believe is the relevant ethical view taken – and how then explain why you attributed that ethical stance to them
+From the ethic points of view, each of those stakeholder have made their choice based on different principles and we will outline these view and the theory behind it in this section of the report.
+Telecommunication industry –consequentialism	
+The telecommunication industry have 2 different opinions on the act, most of the ISP makes their decision based on the consequentialism ethical principle. Consequentialism is defined as the doctrine that the morality of an action is to be judged solely by its consequences (dictionary). They are taking on this ethic view are because the agreement to this act will create more benefit than lost for the majority of the industry, some other small companies can’t afford the cost of implement what the act requires hence against the act, therefore these way of thinking is based on the value generated by the act or the consequences, which is consequentialism. (citation)
+
+Australian government – deontology, justice ethics.
+The Australian government have 2 different opinions on the act, the majority of the government made their decision to support the act based on the deontology ethical principle, although there are different opinions inside the government such as Greens, who thinks based on the justice ethics principle which is treat all parties equally (citation lecture notes). However both the Labor and the Liberal party thinks based on the deontology ethical principle which is the normative ethical position that judges the morality of an action based on the action’s adherence to a rule or rules (citation). “The highest priority of government is the safety of our community and I want to ensure the Australian people that we will leave no stone unturned to ensure that our community is as safe as it can be”  Tony Abbott(citation). These way of thinking is based on their roles and duties therefore deontology is their ethic principle.
+
+User – consequentialism, relativism, ethical pluralism
+Users in the public have their own view on the act, these views are different among the individuals. We will outline 2 different ethical principles that supports their view, consequentialism and relativism.  People that think this act is the better choice for the safety of the majority of the Australian society (citation) and they are willing to sacrifices some privacy, these people are making their decisions based on consequentialism ethic principle. People who thinks this act violates the culture of Australian people which is the freedom and liberty of every single Australia (citation), these people are making their decisions based on relativism ethic principle. When the community holds different ethical view and solve issues and conflicts we classifies it as ethical pluralism. (citation)
+
+What do you personally think of the circumstances described in the case study? Explain your own individual ethical view regarding the situation outlined and give your personal assessment of stakeholder groups involved. Are they justified in their points of view?
+
+As a future project manager works in the ICT industry, I agree with the labor and liberal party when they choose to support the act for the safety of Australia and the users who thinks that when comes to the international and national security, personal privacy is not as important. (citation) By introducing the act, we may potentially stops a terrorist attack and saves many lives of Australian people, also limits the damage dealt by cyber-crimes and help police to stop criminals. (citation) ”life is the number one priority when comes to ethics” david, 
+//personal opinion consequentialism, 
+
+
+
+International Codes of Ethics
+What evaluation would each Code likely render on the case study situation described? Which (if any) stakeholder position would the Codes most likely support? Supply clear reasoning for both these points.
+//Figure 1. ACS (Australian Computer Society) code of ethics
+//Figure 2. IITP (Institute of IT Professionals, New Zealand) code of ethics
+According to the code of ethics from both IT industry organizations ACS (Australian computer society) and IITP (Institute of IT Professionals, New Zealand), they both thinks that the act should be in place for the benefit of the community, both of these organization rates the interest of public community over personal, business or sectional interest and own professionalism( citation, citation), “Community-focus - Members’ responsibility for the welfare and rights of the community shall come before their responsibility to their profession, sectional or private interests or to other members;” (citation). Their view point is very similar to the Australian government and the users in this particular context, which is doing the right thing that benefits the majority of the community is most important for IT professionals. They rate community interest over the personal privacy and other parties’ interests. (citation)
+
+ What are the major differences (if any) between the ethical codes of conduct you have reviewed in relation to the case study situation?  Justify your answer with specific reference to items within both the case study and the Codes themselves.
+//Informed consent, IITP has the context of interpretation, IITP (not disclose or use any confidential information gained, bold) IITP (ethical dilemmas) 
+Both organization’s code of ethics have similar views on the case, and most of these code of ethics requires the same attributes of IT professionals. However there are still some differences.
+
+The major difference is that IITP have provide supplements to their code of ethics which discussed more context and interpretation of their members. In relation to this case, the IITP code of ethic has specifically outline the privacy related issues in bold “not disclose or use any confidential information gained in the course of their employment without permission, unless disclosure is a legal requirement or withholding the information would be to the detriment of the community;” (citation).  These similar issues is outlined in the TELECOMMUNICATION ACT (2015), “Restrict access to stored communication and telecommunication data” (citation).
+
+Problems of  Advancing Technology
+There are many more and more ethical issues as the technology advances rapidly. Technology such as Virtual Reality has gain more and more popularity in the industry recently and it can raise significant ethical issues in the near future such as desensitization and criminality (citation, vrs.org.uk). Development of robotics can also became a big issue for society, issues such as (citation), anonymous users on the internet is also a big problem currently, leading into cyber-crimes, cyber bullies etc. (citation).
+Report conclusion
+
+Conclude and evaluate the case with reference with ethics
+Discuss future ethic issues
+Reference list page
+Reference provided from the case study
+AND >3 other reference and citations
+Reference needed for ACS and code of conduct
+Additional appendices
+Attach reference article if needed
